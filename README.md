@@ -1,2 +1,2 @@
 # causal-diagrams
-All things related to directed acyclic graphs
+All things related to augmented directed acyclic graphs (ADAGs) or augmented causal diagrams (ACDs).
